@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+
+# editor directories
+.vscode/
+.idea/
+
+*~
+*.swp
+*.swo
