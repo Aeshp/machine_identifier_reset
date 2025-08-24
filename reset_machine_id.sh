@@ -1,4 +1,4 @@
-#ita a shebang
+#its a shebang
 #!/bin/bash
 
 # it'll display the current machine-id
